@@ -1,4 +1,4 @@
 # hello_world
 
-Hello fellow dawgs.
-Remember, when you encounter a human: no sit, no growl, no biting ankles
+Hello fellow dogs.
+Remember, when you encounter a human: no jumping up, no growl, no biting ankles
